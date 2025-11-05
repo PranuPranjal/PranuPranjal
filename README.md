@@ -65,16 +65,6 @@ I love solving real-world problems using technology — from designing cloud-bas
 
 ---
 
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranuPranjal&show_icons=true&theme=tokyonight" alt="Pranu's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranuPranjal&theme=tokyonight" alt="Pranu's GitHub streak" />
-</p>
-
----
-
 ### 🌐 Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PranuPranjal&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
